@@ -1,8 +1,6 @@
 # Use-Cases
 # Description
-This is the use case diagram that dive deep into the action taken by a user and the affect and risk it takes
-
-10. Use Cases 
+This is the use case diagram that dive deep into the action taken by a user and the affect and risk it takes.
 
 Use Case 1: Switch Dashboard View to Player View 
 
